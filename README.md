@@ -18,4 +18,7 @@ Note: This is a GitHub version of https://greasyfork.org/en/scripts/411614-agarp
 
 * `Save Name in Cookies` - Restores your previous nickname each time you go to agarpaper.io/
 
+[<img alt="screenshot of settings" width="470" src="/img/settings.png"/>](/img/settings.png)
+[<img alt="screenshot of settings" width="470" src="/img/x-scroll.png"/>](/img/x-scroll.png)
+
 P.S. The code was tested on Google Chrome with Tampermonkey installed. This may or may not work on other Chromium-based browser (Such as Edge, Opera, etc...)
