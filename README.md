@@ -1,6 +1,6 @@
 BPDmod for AgarPaper.io!
 
-####Controls
+#### Controls
 
 * Hold `Q` - Feed Continiously
 
@@ -8,7 +8,7 @@ BPDmod for AgarPaper.io!
 
 * `X + Scroll` - Zoom In / Zoom Out
 
-####Settings
+#### Settings
 
 * `Enable Food Animation` - Make food running in circles!
 
