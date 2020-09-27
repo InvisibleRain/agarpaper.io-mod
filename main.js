@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         AgarPaper.io mod
 // @namespace    http://tampermonkey.net/
-// @version      0.22
-// @description  try to take over the world!
+// @version      0.24
+// @description  Settings, animation, macros, and more coming soon!
 // @author       InvisibleRain
 // @match        http://agarpaper.io/*
 // @grant       unsafeWindow
