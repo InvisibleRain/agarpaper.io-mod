@@ -296,13 +296,13 @@ $(".grow").append("<style id='settings_button_style'>\n\
 /*----------------------------Settings Menu-----------------------------------*/
 $(".grow").append('<div id="settings">\n\
       <input onchange="setIsEnableFoodAnimation(this.checked)" type="checkbox" id="foodAnimation" class="settingsCheckbox">\n\
-      <label for="foodAnimation"> Enable Food Animation</label><br>\n\
+      <label for="foodAnimation"> Food Animation</label><br>\n\
 \n\
       <input onchange="enableExpandedNames(this.checked)" type="checkbox" id="expandedNames" class="settingsCheckbox">\n\
-      <label for="expandedNames"> Enable Expanded Names</label><br>\n\
+      <label for="expandedNames"> Longer Name</label><br>\n\
 \n\
       <input onchange="enableCookieNames(this.checked)" type="checkbox" id="cookieName" class="settingsCheckbox">\n\
-      <label for="cookieName"> Save Name in Cookies</label><br>\n\
+      <label for="cookieName"> Save Name</label><br>\n\
 </div>');
 
 $(".grow").append('<style id="settings_style">\n\
@@ -310,7 +310,7 @@ $(".grow").append('<style id="settings_style">\n\
 		display: none;\n\
 		position: relative;\n\
 		top: 70px;\n\
-		margin-left: 12.5%;\n\
+		margin-left: 22.5%;\n\
 		margin-right: 0;\n\
 		color: #ededd1;\n\
 		font-size: 25px\n\

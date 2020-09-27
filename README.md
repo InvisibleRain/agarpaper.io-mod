@@ -12,11 +12,11 @@ Note: This is a GitHub version of https://greasyfork.org/en/scripts/411614-agarp
 
 #### Settings
 
-* `Enable Food Animation` - Make food running in circles!
+* `Food Animation` - Make food running in circles!
 
-* `Enable Expanded Names` - Make the max name length 15 instead of default 12
+* `Longer Name` - Make the max name length 15 instead of default 12
 
-* `Save Name in Cookies` - Restores your previous nickname each time you go to agarpaper.io/
+* `Save Name` - Restores your previous nickname from cookies each time you go to agarpaper.io/
 
 [<img alt="screenshot of settings" width="550" src="/img/settings.png"/>](/img/settings.png)
 [<img alt="screenshot of settings" width="550" src="/img/x-scroll.png"/>](/img/x-scroll.png)
