@@ -20,5 +20,3 @@ Note: This is a GitHub version of https://greasyfork.org/en/scripts/411614-agarp
 
 [<img alt="screenshot of settings" width="550" src="/img/settings.png"/>](/img/settings.png)
 [<img alt="screenshot of settings" width="550" src="/img/x-scroll.png"/>](/img/x-scroll.png)
-
-P.S. The code was tested on Google Chrome with Tampermonkey installed. This may or may not work on other Chromium-based browser (Such as Edge, Opera, etc...)
