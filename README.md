@@ -1,3 +1,5 @@
+# !!! DEPRECATED. DO NOT USE !!!
+
 ### BPDmod for AgarPaper.io!
 
 Note: This is a GitHub version of https://greasyfork.org/en/scripts/411614-agarpaper-io-mod. If you want to just install and play the script, then go for the link!
