@@ -1,4 +1,4 @@
-# !!! DEPRECATED. DO NOT USE !!!
+# !!! DISCONTINUED. DO NOT USE !!!
 
 ### BPDmod for AgarPaper.io!
 
